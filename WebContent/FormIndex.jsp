@@ -31,8 +31,6 @@
 	<input type="radio" name="gender" value="other" checked> Other<br>
 	<br/>
 	<input type="submit" value="submit">
-	
-	hej
 	</fieldset>
 </form>
 </div>
